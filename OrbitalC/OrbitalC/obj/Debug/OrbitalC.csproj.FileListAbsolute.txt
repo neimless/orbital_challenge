@@ -1,0 +1,6 @@
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\OrbitalC.exe.config
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\OrbitalC.exe
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\OrbitalC.pdb
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.csprojResolveAssemblyReference.cache
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.exe
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.pdb
