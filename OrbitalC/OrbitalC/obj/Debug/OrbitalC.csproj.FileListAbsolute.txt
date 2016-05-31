@@ -4,3 +4,11 @@ C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\OrbitalC.pdb
 C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.csprojResolveAssemblyReference.cache
 C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.exe
 C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\obj\Debug\OrbitalC.pdb
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\CalculationLib.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\FSharp.Core.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\CalculationLib.pdb
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\CalculationLib.xml
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\FSharp.Core.xml
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\nunit.framework.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\nunit.framework.xml
+C:\Projects\Teron\orbital_challenge\OrbitalC\OrbitalC\bin\Debug\UnitTests\data.txt

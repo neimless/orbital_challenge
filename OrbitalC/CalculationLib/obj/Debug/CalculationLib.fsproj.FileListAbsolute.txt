@@ -1,0 +1,9 @@
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\CalculationLib.XML
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\CalculationLib.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\CalculationLib.pdb
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\FSharp.Core.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\FSharp.Core.xml
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\obj\Debug\CalculationLib.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\obj\Debug\CalculationLib.pdb
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\nunit.framework.dll
+C:\Projects\Teron\orbital_challenge\OrbitalC\CalculationLib\bin\Debug\nunit.framework.xml
